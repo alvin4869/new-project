@@ -11,6 +11,9 @@
         <router-link to="/newpage/namedview" class="list-group-item list-group-item-action">
           具名路由
         </router-link>
+        <router-link to="/newpage/namedview/a2b" class="list-group-item list-group-item-action">
+          具名路由 AB
+        </router-link>
       </div>
     </div>
     <div class="col-8">
